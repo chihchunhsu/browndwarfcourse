@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome - THIS NEEDS TO BE EDITED
 
 You can use the [editor on GitHub](https://github.com/aburgasser/browndwarfcourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
